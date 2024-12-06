@@ -39,7 +39,9 @@ public class Main {
         System.out.println("Conteúdos Inscritos Alexandre: " + devAle.getConteudosInscritos());
         devAle.progredir();
         devAle.progredir();
+        
         System.out.println("----------");
+        
         System.out.println("Conteúdos Inscritos Alexandre: " + devAle.getConteudosInscritos());
         System.out.println("Conteúdos Concluídos Alexandre: " + devAle.getConteudosConcluidos());
         System.out.println("XP:" + devAle.calcularTotalXp());
@@ -53,7 +55,9 @@ public class Main {
         devCamila.progredir();
         devCamila.progredir();
         devCamila.progredir();
+        
         System.out.println("----------");
+        
         System.out.println("Conteúdos Inscritos Camila" + devCamila.getConteudosInscritos());
         System.out.println("Conteúdos Concluídos Camila" + devCamila.getConteudosConcluidos());
         System.out.println("XP:" + devCamila.calcularTotalXp());
